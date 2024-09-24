@@ -1,4 +1,3 @@
-// https://meet.google.com/ena-fint-wmb
 
 import { useState } from 'react';
 import myStyle from './todo-style.module.css';
